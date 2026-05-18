@@ -13,3 +13,6 @@ For API access, documentation, and custom data solutions, please visit our offic
 * Telegram | @bodapi_dan
 * WeChat (微信) | `daniellehallasgo`
 * Email: support@bodapi.com
+
+---
+*Empowering Global Commerce through Data Intelligence | 2026*
