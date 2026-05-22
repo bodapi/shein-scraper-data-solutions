@@ -28,8 +28,6 @@ We deliver clean, analysis-ready data in your preferred format (**CSV, Excel, or
 
 Standardize your data acquisition process and gain a competitive edge in the global market.
 
-**Status:** Fully Operational & Updated for 2026 🚀
-
 For API access, documentation, and custom data solutions, please visit our official website:
 * Official Website: https://bodapi.com
 * Telegram | @bodapi_dan
