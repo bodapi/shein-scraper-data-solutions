@@ -31,7 +31,7 @@ Standardize your data acquisition process and gain a competitive edge in the glo
 For API access, documentation, and custom data solutions, please visit our official website:
 * Official Website: https://bodapi.com
 * Telegram | @bodapi_dan
-* WeChat (微信) | `daniellehallasgo`
+* WeChat (微信) | daniellehallasgo
 * Email: danielle@bodapi.com
 
 ---
